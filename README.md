@@ -87,7 +87,7 @@ flowchart LR
 
 <div align="center">
 
-**🔗 [instantpediatric.com](https://instantpediatric.com)** · **More of my work: [github.com/MSSohan](https://github.com/MSSohan)**
+**🔗 [Instant Pediatric Care](https://instantpediatric.com)** · **More of my work: [MSSohan](https://github.com/MSSohan)**
 
 <sub>Client project. This repository is a showcase of the work.</sub>
 
